@@ -1,1 +1,1 @@
-# text_extraction_app
+This is a text extraction app.
